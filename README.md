@@ -20,7 +20,7 @@ And many people have found my posts on machine learning helpful:
 * [Thinking of Self-Studying Machine Learning? Remind yourself of these 6 things](https://www.mrdbourke.com/thinking-of-self-studying-machine-learning-remind-yourself-of-these-6-things/)
 
 Find me elsewhere online:
-* [Web](https://www.mrdbourke.com) (here you can see [what I'm up to now](https://www.mrdbourke.com/now)
+* [Web](https://www.mrdbourke.com) (here you can see [what I'm up to now](https://www.mrdbourke.com/now))
 * [YouTube](https://www.dbourke.link/youtube)
 * [Twitch](https://www.twitch.tv/mrdbourke)
 * [Twitter](https://www.twitter.com/mrdbourke)
