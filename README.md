@@ -8,9 +8,10 @@ I'm currently working on [Nutrify](https://github.com/mrdbourke/nutrify) an app 
 
 I teach machine learning and deep learning on [Zero to Mastery](https://www.mrdbourke.com/ml-courses/).
 
-I've authored two books:
-* [Charlie Walks](https://www.charliewalks.com) - a novel about a machine learning engineer who wants to be a writer 
-* [learntensorflow.io](https://www.learntensorflow.io) - a 50,000+ word online (and free) book that teaches you TensorFlow and Deep Learning in a beginner-friendly, code-first way
+I've authored three books:
+* [Charlie Walks](https://www.charliewalks.com) - a sci-fi/romance/philosophical novel about a machine learning engineer who wants to be a writer.
+* [learntensorflow.io](https://www.learntensorflow.io) - a 50,000+ word online (and free) book that teaches you TensorFlow and Deep Learning in a beginner-friendly, code-first way.
+* [learnpytorch.io](https://learnpytorch.io) - the internet's most beginner-friendly way to learn PyTorch for deep learning.
 
 And many people have found my posts on machine learning helpful:
 * [How I’d start learning machine learning again (3-years in)](https://www.mrdbourke.com/how-id-start-learning-machine-learning-again-3-years-in/)
