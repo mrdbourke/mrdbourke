@@ -2,15 +2,15 @@ I write and make videos about machine learning, health and life.
 
 My writing is like the voice in your head found a typewriter.
 
-My videos are like a spartan warrior leanred to code.
+My videos are like a spartan warrior learned to code.
 
-I'm currently working on [Nutrify](https://github.com/mrdbourke/nutrify) an app where you can take a photo of food and learn about it.
+I'm currently working on [Nutrify](https://github.com/mrdbourke/nutrify), an app where you can take a photo of food and learn about it.
 
 I teach machine learning and deep learning on [Zero to Mastery](https://www.mrdbourke.com/ml-courses/).
 
 I've authored three books:
 * [Charlie Walks](https://www.charliewalks.com) - a sci-fi/romance/philosophical novel about a machine learning engineer who wants to be a writer.
-* [learntensorflow.io](https://www.learntensorflow.io) - a 50,000+ word online (and free) book that teaches you TensorFlow and Deep Learning in a beginner-friendly, code-first way.
+* [learntensorflow.io](https://www.learntensorflow.io) - a 50,000+ word online (and free) book that teaches you TensorFlow and Deep Learning in a beginner-friendly and code-first way.
 * [learnpytorch.io](https://learnpytorch.io) - the internet's most beginner-friendly way to learn PyTorch for deep learning.
 
 And many people have found my posts on machine learning helpful:
