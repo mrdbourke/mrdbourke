@@ -4,7 +4,7 @@ My writing is like the voice in your head found a typewriter.
 
 My videos are like a spartan warrior leanred to code.
 
-I'm currently working on [Nutrify](https://github.com/mrdbourke/nutrify) an app where you can take a photo of food and learn about it.
+I'm currently working on [Nutrify](https://nutrify.app) an app where you can take a photo of food and learn about it.
 
 I teach machine learning and deep learning on [Zero to Mastery](https://www.mrdbourke.com/ml-courses/).
 
